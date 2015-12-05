@@ -48,7 +48,7 @@ Released   : 20131117
 			<div class="ebox1">
 				<div class="hexagon"><span class="icon icon-lightbulb"></span></div>
 				<div class="title">
-					<h2>Ultimos juegos anadidos</h2>
+					<h2>Los Ultimos juegos anadidos</h2>
 					<span class="byline"></span>
 				</div>
 				
