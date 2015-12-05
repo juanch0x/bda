@@ -1,0 +1,23 @@
+.menu_admin{
+
+background-color: #3D3D3D;
+
+}
+
+.menu_admin li{
+	display: inline-block;
+	margin-left: 10px;
+	font-size: 0.90em;
+}
+
+#admin_principal_lista_usuario{
+
+text-align: center;
+
+}
+
+.registro{
+
+width: 300px;
+
+}
