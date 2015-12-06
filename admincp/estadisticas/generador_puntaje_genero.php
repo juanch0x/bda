@@ -1,5 +1,4 @@
-<?php // content="text/plain; charset=utf-8"
-// Example for use of JpGraph,
+<?php 
 
 include ("../../includes/jgraph/jpgraph.php");
 include ("../../includes/jgraph/jpgraph_bar.php");
