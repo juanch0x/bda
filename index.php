@@ -20,7 +20,7 @@ Released   : 20131117
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 
-<title>Los últimos juegos añadidos!</title>
+<title>Las últimos juegos añadidos!</title>
 
 <meta name="keywords" content="" />
 <meta name="description" content="" />
