@@ -1,5 +1,5 @@
 <?php 
-
+///
 require_once("constantes.php");
 
 $connect = mysql_connect(db_server, db_user, db_pwd);
