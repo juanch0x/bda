@@ -2,7 +2,7 @@
 
 <?php 
 
-//Se genera en el archivo "puntaje..."
+
 
 include ("../../includes/jgraph/jpgraph.php");
 include ("../../includes/jgraph/jpgraph_bar.php");
