@@ -11,7 +11,7 @@ Para llamar a una constante se **NO SE USA $**
 
 */
 
-//lo ignoras?
+
 
 $ruta = $_SERVER['HTTP_HOST'];
 
