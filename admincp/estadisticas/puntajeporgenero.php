@@ -66,6 +66,7 @@ include ("../../includes/menu_usuario_normal.php");
 <img src="generador_puntaje_genero.php">
 
 
+
 			</center>
 				</div>
 				
