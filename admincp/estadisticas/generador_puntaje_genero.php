@@ -2,6 +2,7 @@
 
 <?php 
 
+//
 
 include ("../../includes/jgraph/jpgraph.php");
 include ("../../includes/jgraph/jpgraph_bar.php");
