@@ -17,7 +17,7 @@ $ruta = $_SERVER['HTTP_HOST'];
 if($ruta == "localhost"){
 
 define("db_server", "localhost");
-define("db_user", "");
+define("db_user", "root");
 define("db_pwd", "asdqwe123");
 define("db_name", "dba10");
 
