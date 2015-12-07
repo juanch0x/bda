@@ -23,18 +23,6 @@ $generos = "SELECT AVG(comentarios.puntos),genero FROM juegos RIGHT JOIN genero_
 
 	}
 
-		
-
-	
-
-
-
-
-//print_r($datos_genero);
-//print_r($datos_puntaje);
-
-//print_r($datos_genero);
-
 
  
 // Setup the graph.
@@ -66,7 +54,7 @@ $bplot = new BarPlot($datos_puntaje);
 $bplot->SetWidth(0.6);
  
 // Setup color for gradient fill style
-$bplot->SetFillGradient("navy:0.9","navy:1.85",GRAD_LEFT_REFLECTION);
+$bplot->SetFillGradient("#00000","orange",GRAD_VER);
  
 // Set color for the frame of each bar
 $bplot->SetColor("white");
