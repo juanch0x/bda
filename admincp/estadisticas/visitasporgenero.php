@@ -21,7 +21,7 @@ require_once("../../includes/jgraph/jpgraph_line.php");
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Mejores puntajes por genero!</title>
+<title>Generos con más cantidad de visitas</title>
 <meta name="keywords" content="" />
 <meta name="description" content="" />
 <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900" rel="stylesheet" />
@@ -57,8 +57,8 @@ include ("../../includes/menu_usuario_normal.php");
 			<div class="ebox1">
 				<div class="hexagon"><span class="icon icon-lightbulb"></span></div>
 				<div class="title">
-					<h2>Mejor puntaje por genero</h2>
-					<span class="byline">Aquí se puede ver cuales son los <b>generos</b> con mejor promedio de puntuación</b></span>
+					<h2>Géneros con mayor cantidad de visitas</h2>
+					<span class="byline">Aquí se puede ver cuales son los <b>generos</b> con mayor cantidad de visitas</b></span>
 					<br /><br /><br />
 			<center>
 				
