@@ -109,12 +109,30 @@ Released   : 20131117
 				$promedio_puntos = $promedio_puntos / $cont;
 				}
 				else{$promedio_puntos=0;}
+
+
+//Contador de visitas
+
+				$visitas = $array_juego['visitas'];
+				$visitas++;
+
+$sql_visitas = "UPDATE juegos
+					SET visitas = '".$visitas."'
+						WHERE id_juegos='".$id_juego."'";
+
+mysql_query($sql_visitas) or die ("Error". $sql_visitas);
+
+//Fin contador de visitas
+
+		
 				
 				?>
 
 <center>
 <table border="1">
 	
+
+
 <tr>
 	<td rowspan="10"><?php echo "<img src='image/portada/".$array_juego['id_juegos'].".jpg'/>"; ?></td>
 	<td><b>Titulo</b></td>
